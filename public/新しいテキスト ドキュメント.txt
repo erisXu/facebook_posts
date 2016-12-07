@@ -1,0 +1,2 @@
+curl -i -X GET \
+ "https://graph.facebook.com/v2.8/317617924958203/photos?access_token=EAACEdEose0cBALe8vhT3qfWIdwou9VVxZCrKqa4UyVXCVgd4lwLug7VcxvZANbtv0uK1YhxhzU2snl95gk1ZBQ5Kw5ZCjt25ZA6KUVXwIsUke528tzxhbLattGShIshwOdg64wzAmlJ0L9ee66jUktRBDYqQypIR75c21otVyzgZDZD"

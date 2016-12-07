@@ -1,0 +1,4 @@
+function PageManager_(){
+  this.page = "";
+  this.langTable = LANGUAGE['EN'];
+}
