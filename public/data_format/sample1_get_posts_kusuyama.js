@@ -1,3 +1,4 @@
+// 最初ページデータ
 {
   "data": [
     {
@@ -126,4 +127,10 @@
     "previous": "https://graph.facebook.com/v2.8/317617924958203/posts?format=json&since=1480115940&access_token=EAACEdEose0cBAM7s0cu3IXLPC96przaznPdiAZBJPh5ZAUqrEVB0zFUOvT5vQHfRTR8sXS3ZCqxZALeZBhj8uM15W9bZCsvgIVbwSbOlrllnkGM6m5Xu7UecGLE61fRA0elDKPnXlAK7MZBSWyairI4SPTZAGHo4XSSTqqzUwnQ5FQZDZD&limit=25&__paging_token=enc_AdB89Vrcw7rhxuciLLPoB7xO457qTJvSjC1uRVPlwd43SCLlxSJHteWUt5OM6mfZA7WKESSwvX7WYtE0l4O5625CbPgmZCZABAbxSkYTXNJKsXLLAZDZD&__previous=1",
     "next": "https://graph.facebook.com/v2.8/317617924958203/posts?format=json&access_token=EAACEdEose0cBAM7s0cu3IXLPC96przaznPdiAZBJPh5ZAUqrEVB0zFUOvT5vQHfRTR8sXS3ZCqxZALeZBhj8uM15W9bZCsvgIVbwSbOlrllnkGM6m5Xu7UecGLE61fRA0elDKPnXlAK7MZBSWyairI4SPTZAGHo4XSSTqqzUwnQ5FQZDZD&limit=25&until=1474597314&__paging_token=enc_AdBt1ZA1PLN0HCCdH5ReLDBimxzeQ3EdMoB5prX7nzvMOk3HP2iJZAiuGbExlNBxL7n4OvU0QploOx4JVImdZB9fjt5VBZBVN10thZBqd12ZChZCsPI4QZDZD"
   }
+}
+
+// もしnextのurlを押し続けて、最後ページのデータ：
+{
+  "data": [
+  ]
 }
